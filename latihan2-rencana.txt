@@ -1,3 +1,0 @@
-Rencana Latihan :
-1. Kotlin
-2. Javascript
